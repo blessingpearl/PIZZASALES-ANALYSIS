@@ -17,5 +17,5 @@ Power Bi
 
 Dataset Overview
 Column:
-pizza_id ---	order_id	pizza_name_id	quantity	order_date	order_time	unit_price	total_price	pizza_size	pizza_category	pizza_ingredients	pizza_name
+pizza_id ___	order_id	pizza_name_id	quantity	order_date	order_time	unit_price	total_price	pizza_size	pizza_category	pizza_ingredients	pizza_name
 total_price	pizza_size	pizza_category	pizza_ingredients	pizza_name
